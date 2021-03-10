@@ -11,3 +11,5 @@ print(plus_math(12, 54, 76))
 
 print(pl_treyg(12, 6))
 print(pl_trup(12, 6, 6))
+
+print('Создал бэкграунд!! =) ')
