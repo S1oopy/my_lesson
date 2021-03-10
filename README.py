@@ -1,5 +1,5 @@
 # my_lesson
-
+from Lesson_2 import *
 
 
 def plus_math(x,y,z):
@@ -7,3 +7,7 @@ def plus_math(x,y,z):
         return x + y + z
     
 print(plus_math(12, 54, 76))
+
+
+print(pl_treyg(12, 6))
+print(pl_trup(12, 6, 6))
